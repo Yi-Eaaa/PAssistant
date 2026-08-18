@@ -238,7 +238,7 @@ passistant gateway --config ~/.passistant/work.json --workspace ~/agents/work
 
 ## License
 
-项目元数据声明采用 MIT License。
+本项目基于 [MIT License](LICENSE) 开源。
 
 Copyright © 2026 Yi Hong
 
